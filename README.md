@@ -5,7 +5,7 @@ An Arduino library for the Sparkfun 7-Segment Serial Display. Created by Josh Vi
 
 # Installation
 
-To install, unzip and place the 'Serial7' folder into your '<sketchbook>\libraries' directory. Then, restart the Arduino IDE and look for the library under "Sketch" -> "Import Library". You can also try the example under "File" -> "Examples".
+To install, unzip and place the 'Serial7' folder into your '\<sketchbook\>\libraries' directory. Then, restart the Arduino IDE and look for the library under "Sketch" -> "Import Library". You can also try the example under "File" -> "Examples".
 
 # Usage
 
